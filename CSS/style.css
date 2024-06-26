@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.row .col-3 {
+    line-height: 150px;
+    font-size: 30px;
+}
+
+#result {
+    display: none;
+}
+
+#city {
+    padding: 12px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 21px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
